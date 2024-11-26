@@ -1,1 +1,1 @@
-h1{font-size:20px}
+*,*::before,*::after{-webkit-box-sizing:border-box;box-sizing:border-box}.container{width:1280px;margin:0 auto}.main_title{font-size:25px;text-align:center}.main_table{background-color:#deb887;padding:15px;border-spacing:7px 12px}.main_str{font-size:20px}.main_str_item{font-weight:700;background-color:#fff;border-radius:4px;padding:0 10px;text-align:center}.main_str_item_work{background-color:#862e2e;color:#fff}.main_str_item:hover{outline:3px solid}

@@ -1,3 +1,28 @@
-h1 {
-    font-size: 20px;
+.main {
+    &_title {
+        font-size: 25px;
+        text-align: center;
+    }
+    &_table {
+        background-color: burlywood;
+        padding: 15px;
+        border-spacing: 7px 12px;
+    }
+    &_str {
+        font-size: 20px;
+        &_item {
+            font-weight: 700;
+            background-color: #fff;
+            border-radius: 4px;
+            padding: 0 10px;
+            text-align: center;
+            &_work {
+                background-color: #862e2e;
+                color: rgb(255, 255, 255);
+            }
+            &:hover {
+                outline: 3px solid ;
+            }
+        }
+    }
 }
